@@ -12,13 +12,13 @@ Attract mode;
 Keyboard controls.
 
 ## Controls
-SPACE - Start game;
-W/S - Player 1 controls;
-UP/DOWN - Player 2 controls;
-M - Mute sound;
-TAB - Change active screen if you are on a multi-monitor setup;
-F11 - Toggle windowed mode;
-ESC - Exit game.
+- SPACE - Start game;
+- W/S - Player 1 controls;
+- UP/DOWN - Player 2 controls;
+- M - Mute sound;
+- TAB - Change active screen if you are on a multi-monitor setup;
+- F11 - Toggle windowed mode;
+- ESC - Exit game.
 
 ## Notes
 The fact that the paddles can't reach the top or bottom of the screen is a feature, not a bug.
